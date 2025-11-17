@@ -1,0 +1,5 @@
+{
+  "name": " Image Colorizer",
+  "description": "An application that  colorize outline images based on a text prompt. Upload a line drawing, describe how you want it colored, and let bring it to life.",
+  "requestFramePermissions": []
+}
